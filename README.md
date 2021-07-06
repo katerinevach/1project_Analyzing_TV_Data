@@ -1,4 +1,4 @@
-# 1project_Analyzing_TV_Data
+# project_Analyzing_TV_Data
 
 Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, we're going to answer questions like:
 
@@ -8,3 +8,5 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 - ✨Who are the most prolific musicians in terms of halftime show performances?
 
 ![Image text](https://graziamagazine.com/mx/wp-content/uploads/sites/13/2018/02/tiburon-izquierdo-katy-perry-halftime-show-habla-coreografia-destacada.jpg?fit=1500%2C1120)
+
+
